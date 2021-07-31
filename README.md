@@ -22,6 +22,4 @@ I'm a cybersecurity consultant and pentester with a legal background. I have rec
 
  ##
  
- <div>
-   ![Snake animation](https://github.com/julio-cfa/julio-cfa/blob/output/github-contribution-grid-snake.svg)
- </div>
+![Snake animation](https://github.com/julio-cfa/julio-cfa/blob/output/github-contribution-grid-snake.svg)
