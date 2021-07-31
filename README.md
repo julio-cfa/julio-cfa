@@ -18,7 +18,10 @@ I'm a cybersecurity consultant and pentester with a legal background. I have rec
 
   <!-- <img align="right" height="250px" width="250px" alt="Rafa-yoda" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"> -->
   <img align="right" height="300px" width="400px" alt="Dark-Dev" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+ </div>
 
  ##
  
- 
+ <div>
+   ![Snake animation](https://github.com/julio-cfa/julio-cfa/blob/output/github-contribution-grid-snake.svg)
+ </div>
