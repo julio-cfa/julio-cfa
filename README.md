@@ -19,7 +19,7 @@
  ##
  
  <div align="justify">
- I'm a cybersecurity consultant and pentester with a legal background. I have recently started to get into development as my main focus is AppSec. Main activities can be summed up to:
+ I'm a cybersecurity consultant and pentester with a legal background. I have recently started to get into development as my main focus is eventually get more into AppSec. Main activities can be summed up to:
  <p></p>
  <ul>
   <li>Web application pentesting based on OWASP methodologies such as the WSTG</li>
