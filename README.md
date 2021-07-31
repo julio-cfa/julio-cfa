@@ -11,7 +11,7 @@
   <img align="center" alt="Icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="Icon-Bash" height="40" width="40" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png">
   <!-- <img align="right" height="250px" width="250px" alt="Rafa-yoda" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"> -->
   <img align="right" height="200px" width="300px" alt="Dark-Dev" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 </a> </div>
