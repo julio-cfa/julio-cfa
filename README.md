@@ -7,11 +7,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-cfa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Icon-Bash" height="40" width="40" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png">
   <img align="center" alt="Icon-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Bash" height="40" width="40" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png">
+  <img align="center" alt="Icon-PhotoShop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <!-- <img align="right" height="250px" width="250px" alt="Rafa-yoda" src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif"> -->
   <img align="right" height="200px" width="275px" alt="Dark-Dev" src="https://cdn.discordapp.com/attachments/604546783544213531/871142269867151380/teste1.gif">
 </a> </div>
