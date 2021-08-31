@@ -1,4 +1,4 @@
- <img src="https://github.com/julio-cfa/julio-cfa/blob/main/$whoami.png?raw=true">
+
 🇧🇷 PT 🇬🇧 EN 🇲🇽 ES 🇫🇷 FR
 <br>
  <a href="https://github.com/julio-cfa">
@@ -17,9 +17,8 @@
 
  ##
 
-
-
  <div align="justify">
+ <img height="40em" src="https://github.com/julio-cfa/julio-cfa/blob/main/$whoami.png?raw=true"><br>
  I'm a cybersecurity consultant and pentester with a legal background. I have recently started to get into software development as my main focus is to improve my knowledge in AppSec. Main activities can be summed up to:
  <p></p>
  <ul>
