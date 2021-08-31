@@ -17,7 +17,9 @@
 </a> </div>
 
  ##
- 
+
+ <img src="https://github.com/julio-cfa/julio-cfa/blob/main/$whoami.png?raw=true">
+ <br>
  <div align="justify">
  I'm a cybersecurity consultant and pentester with a legal background. I have recently started to get into software development as my main focus is to improve my knowledge in AppSec. Main activities can be summed up to:
  <p></p>
