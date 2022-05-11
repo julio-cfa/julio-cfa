@@ -1,5 +1,5 @@
 <strong><p>$whoami</p></strong>
- I'm a cybersecurity consultant and pentester with a legal background. Main activities can be summed up to:
+ I'm a Security Engineer and Pentester with a legal background. Main activities can be summed up to:
  <p></p>
  <ul>
   <li>Web application pentesting based on OWASP methodologies such as the WSTG;</li>
