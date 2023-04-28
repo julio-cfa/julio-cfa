@@ -9,5 +9,3 @@
   <li>Brazilian Data Protection Law (LGPD) & General Data Protection Regulation (GDPR) compliance.</li>
  </ul>
 </div>
-
-![Snake animation](https://github.com/julio-cfa/julio-cfa/blob/output/github-contribution-grid-snake.svg)
